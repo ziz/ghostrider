@@ -73,6 +73,7 @@ jobs:
 
       - name: Build
         run: yarn run build
+      - run: cp mafia/dependencies.txt ${{ env.path }}/dependencies.txt
 
       - name: Push to Release
         uses: s0/git-publish-subdir-action@develop
