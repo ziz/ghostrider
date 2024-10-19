@@ -1,0 +1,2 @@
+https://github.com/phulin/doctor-dread.git release
+https://svn.code.sf.net/p/guyymafia/code/dreaddrunk
